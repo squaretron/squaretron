@@ -4,15 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 WEB DEVELOPER, BACK-END DEVELOPER
 ---------------------------------
 
-I have been coding for the past 2 years, I started thinking it was an interesting hobby but now I think I have really found my passion in it.
+I have been coding for the past 4 years, I started thinking it was an interesting hobby but now I think I have really found my passion in it.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [squaretrontech@gmail.com](mailto:squaretrontech@gmail.com)
 * 🧠  I'm learning React.js
-
-<a href="https://www.twitter.com/squaretron" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/squaretron?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
